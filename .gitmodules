@@ -1,0 +1,3 @@
+[submodule "teste-submodule"]
+	path = teste-submodule
+	url = git@github.com:denissys/teste-submodule.git
